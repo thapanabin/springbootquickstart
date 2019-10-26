@@ -1,5 +1,7 @@
 package com.nabin.springbootstarter.topic;
 
-public interface TopicRepository {
+import org.springframework.data.repository.CrudRepository;
+
+public interface TopicRepository extends CrudRepository<Topic, String>{
 
 }
