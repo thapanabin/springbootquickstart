@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: nabins java api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nabin
+Implementation-Vendor-Id: com.nabin.springbootquickstart
+Build-Jdk: 1.8.0_212
+Implementation-URL: http://projects.spring.io/spring-boot/course-apii/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
